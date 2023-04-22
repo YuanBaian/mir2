@@ -13,6 +13,8 @@ type
     procedure WritePacket(writer: TBinaryWriter); virtual; abstract;
   public
     Observable: Boolean;
+    constructor Create; virtual;
+    destructor Destroy; virtual;
     function GetPacketBytes(): TBytes;
     function GetIndex(): SmallInt; virtual;
   end;
@@ -77,6 +79,17 @@ begin
   SetLength(extra, Length(rawBytes) - nLen);
   System.Move(rawBytes[nLen], extra[0], Length(rawBytes) - nLen);
 end;
+
+constructor TPacket.Create;
+begin
+
+end;
+
+destructor TPacket.Destroy;
+begin
+
+end;
+
 
 function TPacket.GetIndex: SmallInt;
 begin
