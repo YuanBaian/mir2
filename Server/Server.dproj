@@ -111,7 +111,7 @@
         </DCCReference>
         <DCCReference Include="..\Shared\Packet.pas"/>
         <DCCReference Include="..\Shared\Enum.pas"/>
-        <DCCReference Include="Shared\ServerPackets.pas"/>
+        <DCCReference Include="..\Shared\ServerPackets.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>

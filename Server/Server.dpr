@@ -5,7 +5,7 @@ uses
   Main in 'MirForm\Main.pas' {SMain},
   Packet in '..\Shared\Packet.pas',
   Enum in '..\Shared\Enum.pas',
-  ServerPackets in '.\Shared\ServerPackets.pas';
+  ServerPackets in '..\Shared\ServerPackets.pas';
 
 {$R *.res}
 

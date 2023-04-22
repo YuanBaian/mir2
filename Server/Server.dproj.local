@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2023/04/21 23:08:37.338,=C:\Users\brush\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/04/21 23:12:14.511,C:\Users\brush\Documents\Embarcadero\Studio\Projects\Server.dproj=C:\Users\brush\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2023/04/21 23:13:40.440,C:\Users\brush\Documents\Embarcadero\Studio\Projects\Main.pas=C:\Users\brush\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/04/21 23:13:40.440,C:\Users\brush\Documents\Embarcadero\Studio\Projects\Main.dfm=C:\Users\brush\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2023/04/21 23:15:29.454,E:\Work\Crystal\DelphiVersion\Server\MirForm\Main.dfm=C:\Users\brush\Documents\Embarcadero\Studio\Projects\Main.dfm</Transaction>
-    <Transaction>2023/04/21 23:15:29.454,E:\Work\Crystal\DelphiVersion\Server\MirForm\Main.pas=C:\Users\brush\Documents\Embarcadero\Studio\Projects\Main.pas</Transaction>
-    <Transaction>2023/04/21 23:15:40.162,E:\Work\Crystal\DelphiVersion\Server\Server.dproj=C:\Users\brush\Documents\Embarcadero\Studio\Projects\Server.dproj</Transaction>
-    <Transaction>2023/04/21 23:17:16.522,=E:\Work\Crystal\DelphiVersion\Server\Unit1.pas</Transaction>
-    <Transaction>2023/04/21 23:17:39.908,E:\Work\Crystal\DelphiVersion\Shared\Packet.pas=E:\Work\Crystal\DelphiVersion\Server\Unit1.pas</Transaction>
-    <Transaction>2023/04/22 02:54:47.512,=E:\Work\Crystal\DelphiVersion\Server\Unit1.pas</Transaction>
-    <Transaction>2023/04/22 02:54:56.878,E:\Work\Crystal\DelphiVersion\Shared\Unit1.pas=E:\Work\Crystal\DelphiVersion\Server\Unit1.pas</Transaction>
-    <Transaction>2023/04/22 02:55:08.442,E:\Work\Crystal\DelphiVersion\Shared\Index.pas=E:\Work\Crystal\DelphiVersion\Shared\Unit1.pas</Transaction>
-    <Transaction>2023/04/22 02:55:11.816,E:\Work\Crystal\DelphiVersion\Shared\Enum.pas=E:\Work\Crystal\DelphiVersion\Shared\Index.pas</Transaction>
-    <Transaction>2023/04/22 03:01:15.987,=E:\Work\Crystal\DelphiVersion\Server\Unit1.pas</Transaction>
-    <Transaction>2023/04/22 03:01:23.788,E:\Work\Crystal\DelphiVersion\Server\ServerPackets.pas=E:\Work\Crystal\DelphiVersion\Server\Unit1.pas</Transaction>
+	<Transactions>
+    <Transaction>2023/04/21 23:08:37.000.338,=C:\Users\brush\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/21 23:12:14.000.511,C:\Users\brush\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\brush\Documents\Embarcadero\Studio\Projects\Server.dproj</Transaction>
+    <Transaction>2023/04/21 23:13:40.000.440,C:\Users\brush\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\brush\Documents\Embarcadero\Studio\Projects\Main.dfm</Transaction>
+    <Transaction>2023/04/21 23:13:40.000.440,C:\Users\brush\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\brush\Documents\Embarcadero\Studio\Projects\Main.pas</Transaction>
+    <Transaction>2023/04/21 23:15:29.000.454,C:\Users\brush\Documents\Embarcadero\Studio\Projects\Main.pas=E:\Work\Crystal\DelphiVersion\Server\MirForm\Main.pas</Transaction>
+    <Transaction>2023/04/21 23:15:29.000.454,C:\Users\brush\Documents\Embarcadero\Studio\Projects\Main.dfm=E:\Work\Crystal\DelphiVersion\Server\MirForm\Main.dfm</Transaction>
+    <Transaction>2023/04/21 23:15:40.000.162,C:\Users\brush\Documents\Embarcadero\Studio\Projects\Server.dproj=E:\Work\Crystal\DelphiVersion\Server\Server.dproj</Transaction>
+    <Transaction>2023/04/21 23:17:16.000.522,=E:\Work\Crystal\DelphiVersion\Server\Unit1.pas</Transaction>
+    <Transaction>2023/04/21 23:17:39.000.908,E:\Work\Crystal\DelphiVersion\Server\Unit1.pas=E:\Work\Crystal\DelphiVersion\Shared\Packet.pas</Transaction>
+    <Transaction>2023/04/22 02:54:47.000.512,=E:\Work\Crystal\DelphiVersion\Server\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 02:54:56.000.878,E:\Work\Crystal\DelphiVersion\Server\Unit1.pas=E:\Work\Crystal\DelphiVersion\Shared\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 02:55:08.000.442,E:\Work\Crystal\DelphiVersion\Shared\Unit1.pas=E:\Work\Crystal\DelphiVersion\Shared\Index.pas</Transaction>
+    <Transaction>2023/04/22 02:55:11.000.816,E:\Work\Crystal\DelphiVersion\Shared\Index.pas=E:\Work\Crystal\DelphiVersion\Shared\Enum.pas</Transaction>
+    <Transaction>2023/04/22 03:01:15.000.987,=E:\Work\Crystal\DelphiVersion\Server\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 03:01:23.000.788,E:\Work\Crystal\DelphiVersion\Server\Unit1.pas=E:\Work\Crystal\DelphiVersion\Server\ServerPackets.pas</Transaction>
   </Transactions>
 </BorlandProject>
