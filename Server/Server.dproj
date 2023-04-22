@@ -112,6 +112,11 @@
         <DCCReference Include="..\Shared\Packet.pas"/>
         <DCCReference Include="..\Shared\Enum.pas"/>
         <DCCReference Include="..\Shared\ServerPackets.pas"/>
+        <DCCReference Include="..\Shared\Data\SelectInfo.pas"/>
+        <DCCReference Include="..\Shared\Data\ClientData.pas"/>
+        <DCCReference Include="..\Shared\Data\ItemData.pas"/>
+        <DCCReference Include="..\Shared\Data\SharedData.pas"/>
+        <DCCReference Include="..\Shared\Data\State.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
@@ -138,7 +143,7 @@
                 </Excluded_Packages>
             </Delphi.Personality>
             <Deployment Version="3">
-                <DeployFile LocalName="Win32\Debug\Server.exe" Configuration="Debug" Class="ProjectOutput">
+                <DeployFile LocalName="..\Build\%PROJECTNAME%\Win32\Debug\Server.exe" Configuration="Debug" Class="ProjectOutput">
                     <Platform Name="Win32">
                         <RemoteName>Server.exe</RemoteName>
                         <Overwrite>true</Overwrite>
